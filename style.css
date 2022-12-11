@@ -105,6 +105,10 @@ h2 {
   margin-bottom: 20px;
 }
 @media screen and (max-width: 768px) {
+  .main-box {
+    display: inline-block;
+  }
+
   .main-img-area {
     display: block;
     width: 100%;
